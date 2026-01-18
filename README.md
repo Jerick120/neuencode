@@ -1,6 +1,6 @@
 # NeuEncode
 
-Minimal GIF encoder using LZW compression and Anthony Dekker’s NeuQuant color quantization
+Minimal GIF encoder using LZW compression and Anthony Dekker's NeuQuant color quantization
 
 # Usage
 

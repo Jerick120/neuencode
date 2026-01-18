@@ -1,7 +1,7 @@
 {
     "name": "neuencode",
     "version": "1.0.0",
-    "description": "Lightweight GIF encoder based on LZWEncoder & Anthony Dekker's NeuQuant.",
+    "description": "Minimal GIF encoder using LZW compression and Anthony Dekker's NeuQuant color quantization",
     "main": "index.js",
     "type": "module",
     "exports": {
