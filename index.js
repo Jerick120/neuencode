@@ -1,0 +1,1 @@
+export { NeuEncode } from './src/NeuEncode'

@@ -1,0 +1,31 @@
+{
+    "name": "neuencode",
+    "version": "1.0.0",
+    "description": "Lightweight GIF encoder based on LZWEncoder & Anthony Dekker's NeuQuant.",
+    "main": "index.js",
+    "type": "module",
+    "exports": {
+        ".": "./index.js"
+    },
+    "files": [
+        "index.js",
+        "src"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jerick120/neuencode.git"
+    },
+    "keywords": [
+        "gif",
+        "encoder",
+        "image",
+        "node",
+        "neuquant",
+        "lzwencoder"
+    ],
+    "author": {
+        "name": "jerick120",
+        "url": "https://github.com/jerick120"
+    },
+    "license": "MIT"
+}
