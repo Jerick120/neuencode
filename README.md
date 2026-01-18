@@ -19,8 +19,8 @@ Minimal GIF encoder using LZW compression and Anthony Dekker’s NeuQuant color 
 
 ### Methods
 
-|     Method     |  Parameter |    Description                    |
-| :------------: | :--------: | :-------------------------------: |
-|    `encode`    | n/a        | Runs the GIF encoding process     |
-|    `export`    | n/a        | Returns encoded GIF as Uint8Array |
+|     Method     |  Parameters |    Description                    |
+| :------------: | :--------:  | :-------------------------------: |
+|    `encode`    | n/a         | Runs the GIF encoding process     |
+|    `export`    | n/a         | Returns encoded GIF as Uint8Array |
 
