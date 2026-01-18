@@ -13,7 +13,7 @@ Minimal GIF encoder using LZW compression and Anthony Dekker’s NeuQuant color 
 |    `frames`    | Array   | RGBA frame buffers (CanvasRenderingContext2D.getImageData().data)  |   yes    |    n/a     |
 |    `width`     | Number  | Frame width in pixels                                              |   yes    |    n/a     |
 |    `height`    | Number  | Frame height in pixels                                             |   yes    |    n/a     |
-|    `delays`    | Array   | Per-frame delays in ms                                             |    no    |    50ms    |
+|    `delays`    | Array   | Per-frame delays in ms                                             |    no    |    50      |
 |   `quality`    | Number  | NeuQuant quality (1–30, lower is better/slower)                    |    no    |    15      |
 
 
