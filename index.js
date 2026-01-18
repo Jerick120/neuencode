@@ -1,1 +1,1 @@
-export { NeuEncode } from './src/NeuEncode'
+export { NeuEncode } from './src/NeuEncode.js'
